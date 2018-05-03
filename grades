@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+
+<html>
+
+  <head>
+    <link href="https://fonts.googleapis.com/css?family=Caveat|Caveat+Brush|GFS+Neohellenic|Gaegu|Just+Me+Again+Down+Here|Libre+Barcode+128|Libre+Barcode+128+Text|Libre+Barcode+39+Extended|Libre+Barcode+39+Extended+Text|Mirza|Nanum+Brush+Script|Patrick+Hand+SC|Ranga|Sedgwick+Ave|Tillana" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="style.css"> 
+    <title>grades</title>
+  </head>
+  
+  <body>
+  
+    <div id="header">
+      <h1>My Grades</h1>
+    </div>
+    
+    <div class="nav">
+     
+    </div>
+    
+    <div class="table">
+      
+      <h4>GPA: 3.967</h4>	
+	
+       <table align="center">
+        <tr>
+           <th>class</th>
+           <th>percent</th>
+           <th>letter grade</th>
+        </tr>
+	<tr>
+	    <td>Honors English 9A</td>
+	    <td>92.76%</td>
+	    <td>A-</td>
+	</tr>
+	<tr>
+	    <td>Intermediate Algebra A</td>
+	    <td>93.5%</td>
+	    <td>A</td>
+	</tr> 
+	<tr>
+	    <td>Fitness for Life</td>
+	    <td>96%</td>
+	    <td>A</td>
+	</tr> 
+	<tr>
+	    <td>Physics 9A</td>
+	    <td>98.98%</td>
+	    <td>A</td>
+	</tr> 
+	<tr>
+	    <td>Civics 9A</td>
+	    <td>100.76%</td>
+	    <td>A</td>
+	</tr> 
+	<tr>
+	    <td>Skills for Success</td>
+	    <td>98.97%</td>
+	    <td>A</td>
+	</tr> 
+        <tr>
+	    <td>Intermediate Algebra B</td>
+	    <td>96.88%</td>
+	    <td>A</td>
+	</tr> 
+	<tr>
+	    <td>Physics 9B</td>
+	    <td>98.79%</td>
+	    <td>A</td>
+	</tr> 
+	<tr>
+	    <td>Civics 9B</td>
+	    <td>95.72%</td>
+	    <td>A</td>
+	</tr> 
+	<tr>
+	    <td>Spanish 1A</td>
+	    <td>100.21%</td>
+	    <td>A</td>
+	</tr>        
+      </table>
+      
+    </div>
+		
+    <div class="footer">
+      <p>By Julia Amsler</p>
+    </div>	
+  
+  </body>
+
+</html>
