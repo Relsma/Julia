@@ -17,6 +17,7 @@ body {
 
 .nav {
 	text-align: center;
+	  padding: 0px 0px 10px 0px;
 }
 
 .nav ul {
@@ -32,7 +33,6 @@ body {
 	  font-size: 30px;
 	  list-style: none; 
 	  display: inline;
-	  padding: 0px 0px 5px 0px;
   }
 
 .nav li a {
