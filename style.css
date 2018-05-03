@@ -3,7 +3,9 @@ body {
     background-image: url("bg.jpg");
 }
 
-
+#header {
+	background-color: white;
+}
 
 
 #header h1 {
