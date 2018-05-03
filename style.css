@@ -4,8 +4,8 @@ body {
 }
 
 #header {
-	padding: 1px 0px 0px 0px;
-	border-width: thin;
+	padding: 1px 0px 0px 0px !important;
+	border-width: thin !important;
 }
 
 
@@ -18,8 +18,8 @@ body {
 
 .nav {
 	text-align: center;
-	  padding: 0px 0px 10px 0px;
-	border-width: thin;
+	  padding: 0px 0px 10px 0px !important;
+	border-width: thin !important;
 }
 
 .nav ul {
@@ -29,8 +29,7 @@ body {
 
   .nav li {
 	  float: left; /* Gets all list items in nav to appear on the same line */
-	  margin-top: 1px;
-	  margin-right: 60px; /*Provides a gap petween each list item */
+	  margin-right: 1px; /*Provides a gap petween each list item */
 	  text-align: center;
 	  font-family: 'Gaegu', cursive;
 	  font-size: 30px;
